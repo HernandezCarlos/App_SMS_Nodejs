@@ -1,6 +1,6 @@
 # App SMS Node
 
-Node.js app that uses Nexmo to send SMS text messages
+
 
 ### Version
 1.0.0
