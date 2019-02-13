@@ -15,7 +15,7 @@ Install the dependencies
 $ npm install
 ```
 
-### Serve
+### Server
 To serve in the browser
 
 ```sh
@@ -29,7 +29,6 @@ You will need to add your own Nexmo api key, secret and virtual number
 
 ### Author
 
-Brad Traversy
 Carlos Hernández
 
 ### Version
