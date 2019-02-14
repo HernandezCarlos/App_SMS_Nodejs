@@ -40,7 +40,7 @@ app.post('/', (req,res) => {
    const texto = req.body.texto
 
    nexmo.message.sendSms(
-    '50689936226', numero, texto, {type:'unicode'},
+    'yourphonenumber', numero, texto, {type:'unicode'},
     (err, responseData) => {
         if(err){
             console.log(err)
